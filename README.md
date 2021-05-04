@@ -23,7 +23,6 @@
     }
 </style>
 <body>
-  <href="https://www.teahub.io/photos/full/315-3150449_coffee-wallpaper-hd.jpg">
 <img src="C:\Users\jay\Desktop\master mini project\safecoffee.jpg">
 <img src="safecoffee.jpg">
     <!-- Links (sit on top) -->
@@ -151,7 +150,7 @@
 
     <!-- Footer -->
     <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-        <p>WE LOVE CAFE<a href=</a></p>
+        <p>WE LOVE CAFE/p>
     </footer>
 
     <script>
